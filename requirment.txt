@@ -1,0 +1,9 @@
+fastapi
+json
+re
+transformers
+pandas
+torch
+spacy
+inflect
+python-multipart
